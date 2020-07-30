@@ -1,7 +1,11 @@
-https://codesandbox.io/s/github/lishine/life-game/tree/master
+# Life Game
 
-#### TODO
+<https://codesandbox.io/s/github/lishine/life-game/tree/master>
 
--   cells animation
--   better charts
--   optimize CellContent
+## Demo
+![Demo](https://github.com/lishine/life-game/blob/master/screenshot.png "Demo")
+
+## TODO
+- cells animation
+- better charts
+- optimize CellContent
